@@ -36,7 +36,10 @@ body {
 ol, ul {
 	list-style: none;
 }
-
+image btc{
+	width: 100px;
+	height: 100px;
+} 
 blockquote, q {
 	quotes: none;
 }
